@@ -1,3 +1,2 @@
 # stimulus_generators
-
-# basic pyschophysics stimulus generators..
+ basic pyschophysics stimulus generators..
